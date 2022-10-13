@@ -1,0 +1,180 @@
+O:\Auth\SSODemo\SSODemo\bin\SSODemo.dll.config
+O:\Auth\SSODemo\SSODemo\bin\SSODemo.dll
+O:\Auth\SSODemo\SSODemo\bin\SSODemo.pdb
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csc.exe
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csc.exe.config
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csc.rsp
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csi.exe
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csi.exe.config
+O:\Auth\SSODemo\SSODemo\bin\roslyn\csi.rsp
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.Managed.Core.targets
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\Auth\SSODemo\SSODemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.AppContext.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Collections.Immutable.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Console.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Globalization.Calendars.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.IO.Compression.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.IO.FileSystem.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Net.Http.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Net.Sockets.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Reflection.Metadata.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.ValueTuple.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Xml.ReaderWriter.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Xml.XmlDocument.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Xml.XPath.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+O:\Auth\SSODemo\SSODemo\bin\roslyn\vbc.exe
+O:\Auth\SSODemo\SSODemo\bin\roslyn\vbc.exe.config
+O:\Auth\SSODemo\SSODemo\bin\roslyn\vbc.rsp
+O:\Auth\SSODemo\SSODemo\bin\roslyn\VBCSCompiler.exe
+O:\Auth\SSODemo\SSODemo\bin\roslyn\VBCSCompiler.exe.config
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\Auth\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.AssemblyReference.cache
+O:\Auth\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.CoreCompileInputs.cache
+O:\Auth\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.CopyComplete
+O:\Auth\SSODemo\SSODemo\obj\Debug\SSODemo.dll
+O:\Auth\SSODemo\SSODemo\obj\Debug\SSODemo.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.Cookies.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+O:\Auth\SSODemo\SSODemo\bin\Newtonsoft.Json.dll
+O:\Auth\SSODemo\SSODemo\bin\Owin.dll
+O:\Auth\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.dll
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.pdb
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.Cookies.xml
+O:\Auth\SSODemo\SSODemo\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+O:\Auth\SSODemo\SSODemo\bin\Newtonsoft.Json.xml
+O:\Auth\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+O:\Auth\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\SSODemo.dll.config
+C:\SSODemo (1)\SSODemo\SSODemo\bin\SSODemo.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\SSODemo.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csc.exe
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csc.exe.config
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csc.rsp
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csi.exe
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csi.exe.config
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\csi.rsp
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.AppContext.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Collections.Immutable.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Console.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.IO.Compression.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.IO.FileSystem.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Net.Http.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Net.Sockets.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.ValueTuple.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Xml.XPath.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\vbc.exe
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\vbc.exe.config
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\vbc.rsp
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\VBCSCompiler.exe
+C:\SSODemo (1)\SSODemo\SSODemo\bin\roslyn\VBCSCompiler.exe.config
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Newtonsoft.Json.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Owin.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Logging.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.IdentityModel.Tokens.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Newtonsoft.Json.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\SSODemo (1)\SSODemo\SSODemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\SSODemo (1)\SSODemo\SSODemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SSODemo (1)\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.AssemblyReference.cache
+C:\SSODemo (1)\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.CoreCompileInputs.cache
+C:\SSODemo (1)\SSODemo\SSODemo\obj\Debug\SSODemo.csproj.CopyComplete
+C:\SSODemo (1)\SSODemo\SSODemo\obj\Debug\SSODemo.dll
+C:\SSODemo (1)\SSODemo\SSODemo\obj\Debug\SSODemo.pdb
